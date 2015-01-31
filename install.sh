@@ -1,5 +1,9 @@
 #!/bin/bash
 
+#
+# Copyright (C) 2015 Khudaydad Mahmoodi
+#
+
 set -e
 
 # make sure only root can run this script
